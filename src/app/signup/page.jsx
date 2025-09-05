@@ -41,7 +41,7 @@ const Signup = () => {
           alt="Logo"
           className="w-12 h-12 rounded-full"
         />
-        <h1 className="text-lg font-bold">LOGO NAME</h1>
+        <h1 className="text-lg font-bold">Book Review</h1>
       </div>
 
       {/* Background Images */}
