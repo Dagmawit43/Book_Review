@@ -146,12 +146,12 @@ Check out the deployed project here: [Book Review Platform Live Demo](https://bo
 
 - **Dagmawit Gebreweld** - Frontend Developer  
 - **Nathnael Andargachew** - Backend Developer  
-- **Tinbite Yonas** - Frontend Developer & Video
+- **Bekalu Bekele** - Frontend Developer & Video
 
 ## Github Links of contributors ![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)
 - **Dagmawit Gebreweld** - [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Dagmawit43)
 - **Nathnael Andargachew** - [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/malon328)  
-- **Tinbite Yonas** - [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Trilord52)
+- **Bekalu Bekele** - [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/Trilord52)
 
 ## 📹 Demo Video
 https://drive.google.com/file/d/1LG_hScm-CuRbbeZeWjpTHpHbbTnm9eky/view?usp=sharing
